@@ -1,0 +1,20 @@
+D:\LT.NET\hill\hill\bin\Debug\hill.exe.config
+D:\LT.NET\hill\hill\bin\Debug\hill.exe
+D:\LT.NET\hill\hill\bin\Debug\hill.pdb
+D:\LT.NET\hill\hill\obj\Debug\hill.csproj.AssemblyReference.cache
+D:\LT.NET\hill\hill\obj\Debug\hill.Form1.resources
+D:\LT.NET\hill\hill\obj\Debug\hill.Properties.Resources.resources
+D:\LT.NET\hill\hill\obj\Debug\hill.csproj.GenerateResource.cache
+D:\LT.NET\hill\hill\obj\Debug\hill.csproj.CoreCompileInputs.cache
+D:\LT.NET\hill\hill\obj\Debug\hill.exe
+D:\LT.NET\hill\hill\obj\Debug\hill.pdb
+C:\Users\trait\Documents\Zalo Received Files\hill\hill\bin\Debug\hill.exe.config
+C:\Users\trait\Documents\Zalo Received Files\hill\hill\bin\Debug\hill.exe
+C:\Users\trait\Documents\Zalo Received Files\hill\hill\bin\Debug\hill.pdb
+C:\Users\trait\Documents\Zalo Received Files\hill\hill\obj\Debug\hill.csproj.AssemblyReference.cache
+C:\Users\trait\Documents\Zalo Received Files\hill\hill\obj\Debug\hill.Form1.resources
+C:\Users\trait\Documents\Zalo Received Files\hill\hill\obj\Debug\hill.Properties.Resources.resources
+C:\Users\trait\Documents\Zalo Received Files\hill\hill\obj\Debug\hill.csproj.GenerateResource.cache
+C:\Users\trait\Documents\Zalo Received Files\hill\hill\obj\Debug\hill.csproj.CoreCompileInputs.cache
+C:\Users\trait\Documents\Zalo Received Files\hill\hill\obj\Debug\hill.exe
+C:\Users\trait\Documents\Zalo Received Files\hill\hill\obj\Debug\hill.pdb
